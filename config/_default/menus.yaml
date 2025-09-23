@@ -1,0 +1,31 @@
+leftnav:
+- identifier: 311391a7-8049-07d6-ad9a-049dedb98bf6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f064305a-36c5-d3f6-fafd-fc44db037597
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: bf705c26-bfd5-d8b9-20e5-deaaff8f3659
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: ced2de67-3fa5-8a60-9467-f835ed5e1cf9
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: b9979c3c-115a-256e-3b8c-7f1c7ccfae0f
+  name: Disaster Mitigation Plan Memo
+  pageRef: /pages/assignments/disaster-mitigation-plan-memo
+  parent: ced2de67-3fa5-8a60-9467-f835ed5e1cf9
+  weight: 50
+- identifier: b91fc58c-b5bd-d0c4-1425-6efeeddda48e
+  name: "Background Valpara\xEDso Case"
+  pageRef: /pages/assignments/background-valparaiso-case
+  parent: ced2de67-3fa5-8a60-9467-f835ed5e1cf9
+  weight: 60
+- identifier: c32dd5f3-c254-2e8c-39aa-5c2700121ce5
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70

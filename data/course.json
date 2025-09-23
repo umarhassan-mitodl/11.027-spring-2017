@@ -1,0 +1,73 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Energy",
+      "Technology"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Housing Development"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Regional Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "legacy_uid": "e7bc362e-8e0e-2edd-a166-504d66ec0168",
+  "instructors": {
+    "content": [
+      "321876c7-f4e8-cab8-173c-d2af1e28554d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ca529a76-03d8-746e-549d-7a17c3f437fa",
+    "website": "11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017"
+  },
+  "course_title": "Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery",
+  "course_description": "This class is designed to expose you to the cycles of disasters, the roots of emergency planning in the U.S., how to understand and map vulnerabilities, and expose you to the disaster planning in different contexts, including in developing countries.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.027",
+  "course_image_thumbnail": {
+    "content": "03ff29e4-02a1-ebfc-65ce-f6167865aa6d",
+    "website": "11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "c81d3f13-d6ff-410d-9bae-f176efd146e4",
+  "site_short_id": "11.027-spring-2017",
+  "site_url_path": "courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017",
+  "title": "Course Metadata"
+}
