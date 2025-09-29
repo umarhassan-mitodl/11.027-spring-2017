@@ -53,6 +53,7 @@
     "website": "11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017"
   },
   "course_title": "Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery",
+  "hide_download": true,
   "course_description": "This class is designed to expose you to the cycles of disasters, the roots of emergency planning in the U.S., how to understand and map vulnerabilities, and expose you to the disaster planning in different contexts, including in developing countries.\n",
   "department_numbers": [
     "11"
@@ -63,6 +64,7 @@
     "content": "03ff29e4-02a1-ebfc-65ce-f6167865aa6d",
     "website": "11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

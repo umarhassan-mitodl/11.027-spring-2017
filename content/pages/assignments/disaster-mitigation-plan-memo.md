@@ -18,9 +18,9 @@ Decide on a town to research. We prefer that you use your hometown, if possible.
 
 Find a copy of your town’s mitigation plan, if there is one, and analyze the plan.
 
-Refer to APA FEMA {{% resource_link "670b27d6-f10b-4ca6-ab26-cbd5a1b17b46" "*Hazard Mitigation: Integrating Best Practices into Planning*" %}} Chapter 2, page 19, which discusses the problems with town mitigation plans. In this section are specific criticisms of these types of plans.
+Refer to APA FEMA [*Hazard Mitigation: Integrating Best Practices into Planning*](https://planning-org-uploaded-media.s3.amazonaws.com/publication/book_paperback/PAS-Report-560.pdf) Chapter 2, page 19, which discusses the problems with town mitigation plans. In this section are specific criticisms of these types of plans.
 
-Refer also to Drabek’s "{{% resource_link "b4a818c5-0f13-43e3-8d16-63683f5b82b5" "Managing the Emergency Response" %}}" where he reviews town responses to a variety of disasters.
+Refer also to Drabek’s "[Managing the Emergency Response](http://www.jstor.org/stable/3135002)" where he reviews town responses to a variety of disasters.
 
 1. **Provide a short background** analysis of your town’s location, population level, key industries, etc. (You might make use of census data and maps for this section of your report).
 2. **Describe the mitigation plan:**
